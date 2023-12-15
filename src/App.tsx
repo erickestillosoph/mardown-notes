@@ -6,23 +6,12 @@ import './App.css'
 function App() {
   const [count, setCount] = useState(0)
   
-  // ISSUE - 1 added new line version 1
-  // ISSUE - 1 added new line version 2
   // FIX - 1 added new line version 1
   // FIX - 1 added new line version 2
   // FIX - 1 added new line version 3
   // FIX - 1 added new line version 4
+  // FIX - 1 added new line version 5
 
-  // Main added new line version 1
-  // Main added new line version 2
-  // Main added new line version 3
-  // Main added new line version 4
-  // Main added new line version 5
-  // Main added new line version 6
-  // Main added new line version 7
-  // Main added new line version 8
-  // Main added new line version 9
-  // Main added new line version 10
 
   
 
