@@ -7,7 +7,7 @@ function App() {
   const [count, setCount] = useState(0)
 
   // BUG - 1 coded line
-
+  // BUG - 1 coded line version 2
   return (
     <>
       <div>
