@@ -6,6 +6,8 @@ import './App.css'
 function App() {
   const [count, setCount] = useState(0)
   
+  // ISSUE - 1 added new line version 1
+
   // FIX - 1 added new line version 1
 
   return (
