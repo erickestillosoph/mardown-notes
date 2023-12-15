@@ -6,6 +6,8 @@ import './App.css'
 function App() {
   const [count, setCount] = useState(0)
 
+  // BUG - 1 coded line
+
   return (
     <>
       <div>
