@@ -12,6 +12,7 @@ function App() {
   // FIX - 1 coded line 2
 
   // ISSUE - 1 added code line
+  // BUG - 1 coded line version 2
   return (
     <>
       <div>
