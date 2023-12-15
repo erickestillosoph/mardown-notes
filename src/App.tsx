@@ -8,6 +8,8 @@ function App() {
   
   // FIX - 1 coded line
 
+  // BUG - 1 coded line
+
   return (
     <>
       <div>
