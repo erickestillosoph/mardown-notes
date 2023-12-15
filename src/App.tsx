@@ -6,13 +6,6 @@ import './App.css'
 function App() {
   const [count, setCount] = useState(0)
   
-  // FIX - 1 coded line
-
-  // BUG - 1 coded line
-  // FIX - 1 coded line 2
-
-  // ISSUE - 1 added code line
-  // BUG - 1 coded line version 2
   return (
     <>
       <div>
