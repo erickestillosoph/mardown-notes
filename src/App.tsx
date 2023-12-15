@@ -13,6 +13,11 @@ function App() {
   // FIX - 1 added new line version 5
 
 
+  // ISSUE - 1 added new line version 1
+  // ISSUE - 1 added new line version 2
+  // ISSUE - 1 added new line version 3
+  // ISSUE - 1 added new line version 4
+  
   
 
   return (
