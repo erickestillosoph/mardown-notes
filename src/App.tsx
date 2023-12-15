@@ -5,7 +5,7 @@ import './App.css'
 
 function App() {
   const [count, setCount] = useState(0)
-
+  // ISSUE - 1 added code line
   return (
     <>
       <div>
