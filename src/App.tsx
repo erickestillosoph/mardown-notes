@@ -12,6 +12,7 @@ function App() {
   // FIX - 1 added new line version 4
   // FIX - 1 added new line version 5
   // FIX - 1 added new line version 6
+  // FIX - 1 added new line version 7
 
 
 
