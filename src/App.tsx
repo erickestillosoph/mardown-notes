@@ -7,6 +7,7 @@ function App() {
   const [count, setCount] = useState(0)
   
   // FIX - 1 coded line
+  // FIX - 1 coded line 2
 
   return (
     <>
