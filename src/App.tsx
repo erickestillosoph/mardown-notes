@@ -13,6 +13,20 @@ function App() {
   // FIX - 1 added new line version 4
   // FIX - 1 added new line version 5
   // FIX - 1 added new line version 6
+
+  // ISSUE - 1 added new line version 1
+  // ISSUE - 1 added new line version 2
+  // ISSUE - 1 added new line version 3
+  // ISSUE - 1 added new line version 4
+  // ISSUE - 1 added new line version 5
+  // ISSUE - 1 added new line version 6
+
+  // BUG - 1 added new line version 1
+  // BUG - 1 added new line version 2
+  // BUG - 1 added new line version 3
+  // BUG - 1 added new line version 4
+  // BUG - 1 added new line version 5
+  // BUG - 1 added new line version 6
   
   
 
