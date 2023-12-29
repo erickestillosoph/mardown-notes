@@ -21,12 +21,7 @@ function App() {
   // ISSUE - 1 added new line version 5
   // ISSUE - 1 added new line version 6
 
-  // BUG - 1 added new line version 1
-  // BUG - 1 added new line version 2
-  // BUG - 1 added new line version 3
-  // BUG - 1 added new line version 4
-  // BUG - 1 added new line version 5
-  // BUG - 1 added new line version 6
+  // BUG - 1 new feature added version 1
 
   // PAGE - 1 added new line version 1
   // PAGE - 1 added new line version 2
