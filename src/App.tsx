@@ -30,6 +30,8 @@ function App() {
   // PAGE - 1 added new line version 5
   // PAGE - 1 added new line version 6
 
+  // FIX -1 new feature added version 1
+
   return (
     <>
       <div>
